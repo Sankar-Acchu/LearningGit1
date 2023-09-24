@@ -1,1 +1,4 @@
 line 1 branch1Edit branch1Edit1 branch1Edit2 branch1Edit3
+line 2
+line 3
+line 4
