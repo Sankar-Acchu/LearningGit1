@@ -1,2 +1,1 @@
 line 1 branch1Edit branch1Edit1
->>>>>>> branch1
