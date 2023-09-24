@@ -1,1 +1,2 @@
-line 1 mainEdit mainEdit1
+line 1 branch1Edit branch1Edit1
+>>>>>>> branch1
